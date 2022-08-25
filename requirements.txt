@@ -1,0 +1,10 @@
+Visual Studio Code
+MySQL Workbench 8.0 CE
+Python 3.10 64 bits
+
+Nombre de los integrantes:
+Dulce Cristal Salgado
+Maria Fernanda Armenta Sernas
+Jamin Castillo Ocampo
+Jair Odvan Hernández Cambray
+Luis Enrrique Santos Cesar
